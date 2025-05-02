@@ -71,4 +71,3 @@ EEPROM.commit();
 
 ---
 
-Would you like me to upload your code and structure the repository for you as well (folders for `src`, `docs`, `images`, etc.)?
